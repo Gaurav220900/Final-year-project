@@ -1,0 +1,22 @@
+{
+  "name": "final-year-project",
+  "version": "1.0.0",
+  "description": "Final-year-project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Gaurav220900/Final-year-project.git"
+  },
+  "author": "Gaurav-Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaurav220900/Final-year-project/issues"
+  },
+  "homepage": "https://github.com/Gaurav220900/Final-year-project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
