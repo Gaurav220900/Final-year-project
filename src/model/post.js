@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+const Comment = require("./comment");
 const postSchema = new mongoose.Schema(
   {
     userId: {
